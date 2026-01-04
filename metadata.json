@@ -1,0 +1,7 @@
+{
+  "name": "KRRISH-AI",
+  "description": "A smart, secure, and efficient personal AI agent for productivity, coding, IoT, and system support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
